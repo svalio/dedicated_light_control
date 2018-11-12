@@ -1,5 +1,5 @@
 # dedicated_light_control
-This project based on Arduino nano ATmega mc
+This project based on Arduino nano ATmega mc<br>
 Components required:<br>
 1.Arduino Nano(optional: Mega/mini etc.) <br>
 2.Control High Voltage Device: Relay 5V Arduino<br>
